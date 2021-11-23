@@ -11,7 +11,7 @@ Write a function to check if the string is a palindrome.
 function isPalindrome(string)
 {
     //Empty strings are considered palindromes as well
-    if(string===null||string===undefined||string=='')
+    if(string===null||string===undefined||string==='')
      return true;
      
      //We convert the letters to lowercase as we just need to check if letter is same irrespective of case
