@@ -7,7 +7,7 @@ Write a function to check if the string is a palindrome.
 
 **Solution:**
 
-``` 
+```js 
 function isPalindrome(string)
 {
     //Empty strings are considered palindromes as well
@@ -20,7 +20,7 @@ function isPalindrome(string)
      //Iterating the string from front and back and checking if letters are same on each iteration
      for(let i=0;i<stringChars.length-1;i++)
      {
-       if(stringChars[i]!=stringChars[stringChars.length-(i+1)])
+       if(stringChars[i] !== stringChars[stringChars.length-(i+1)])
        return false;
      }
      return true;
