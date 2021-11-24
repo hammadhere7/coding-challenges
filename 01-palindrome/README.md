@@ -34,3 +34,5 @@ isPalindrome('Github');//returns false;
 **Explanation**
 
 To approach the problem we simply convert the string into characters and iterate over the string from left to right and right to left at the same time. At each iteration the letters need to be same, as per the definition of palindrome. If they are same then complete string is palindrome otherwise it is not.
+
+[Repl Link](https://replit.com/@hammadhere10/Palindrome#index.js)
