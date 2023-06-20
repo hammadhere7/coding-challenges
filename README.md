@@ -4,8 +4,9 @@ In this repository, I will attempt to solve most of toughest algorithmic challen
 
 1. [Palindrome](/01-palindrome/README.md)
 2. [Determine second highest element in unsorted array](02-secondMax/README.md)
-3. Max Chars
-4. Duplicate in Array
-5. Node Depth
-6. Fizz Buzz
-7. String Reversal
+3. [Richest Customers Wealth](03-richestCustomerWealth/README.md)
+4. Max Chars
+5. Duplicate in Array
+6. Node Depth
+7. Fizz Buzz
+8. String Reversal
